@@ -5,6 +5,8 @@
 
 ### 使用指南（此项目免费且开源）
 
+![image](https://user-images.githubusercontent.com/12729184/113120478-33d59980-9244-11eb-8675-a49651c8af67.png)
+
 - 1.下载完成以后，将/res/layout目录下的4个布局文件和/res/drawable目录下的5个资源文件复制到您对应的目录中
 
 - app/src/main/res/layout    toast_success.xml/ toast_info.xml / toast_error.xml / toast_warn.xml    
