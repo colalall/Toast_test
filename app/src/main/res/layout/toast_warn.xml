@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:background="@drawable/toast_warn_bg"
+    android:background="@drawable/toast_bg"
     android:gravity="center_vertical"
     android:orientation="horizontal"
     android:paddingStart="20dp"
