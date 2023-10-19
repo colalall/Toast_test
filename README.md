@@ -1,11 +1,13 @@
 # Android-Toast
+
 - 安卓自定义气泡通知，支持Android13，包含成功提示、普通提示、错误提示、警告提示 颜色为绿色、蓝色、红色、橙色
 - 默认是从顶部向下滑出气泡
 
 
 ### 使用指南（此项目免费且开源）
-- 图片预览
+
 - [ 点击下载APK文件：Toast 1.0](app/src/main/res/drawable/Toast.apk)
+- 图片预览
 ![image](https://raw.githubusercontent.com/colalall/Toast_test/master/app/src/main/res/drawable/img.png)
 
 - 1.下载完成以后，将/res/layout目录下的4个布局文件和/res/drawable目录下的5个资源文件复制到您对应的目录中
