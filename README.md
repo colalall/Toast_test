@@ -7,7 +7,7 @@
 
 ![image](https://raw.githubusercontent.com/colalall/Toast_test/master/app/src/main/res/drawable/img.png)
 
- 点击下载APK文件：[Toast 1.0](app/src/main/res/drawable/Toast.apk)
+[ 点击下载APK文件：Toast 1.0](app/src/main/res/drawable/Toast.apk)
 
 - 1.下载完成以后，将/res/layout目录下的4个布局文件和/res/drawable目录下的5个资源文件复制到您对应的目录中
 
