@@ -4,7 +4,7 @@
 
 
 ### 使用指南（此项目免费且开源）
-
+- 图片预览
 ![image](https://raw.githubusercontent.com/colalall/Toast_test/master/app/src/main/res/drawable/img.png)
 
 [ 点击下载APK文件：Toast 1.0](app/src/main/res/drawable/Toast.apk)
