@@ -16,7 +16,7 @@
 
 - app/src/main/res/drawable  ic_1.xml/ ic_2.xml/ ic_3.xml/ ic_4.xml/-toast_bg.xml
 
-- 2.将APP/java目录中的的自定义类ToastUtil复制到您的目录中
+- 2.将APP/java目录中的的自定义类ToastUtil复制到您的目录中。
 
 
 ### 开始使用
@@ -31,7 +31,7 @@
 
 ### 自定义
 - 您可以自定义修改资源文件中的图标，大小，颜色，字体，阴影等
-- 当然如果你是大佬的话您也可以修改ToastUtil类中的代码，来实现更多的功能
+- 当然如果你是大佬的话您也可以修改ToastUtil类中的代码，来实现更多的功能。
 
 
 
