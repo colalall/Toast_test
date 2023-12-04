@@ -33,5 +33,9 @@
 - 您可以自定义修改资源文件中的图标，大小，颜色，字体，阴影等
 - 当然如果你是大佬的话您也可以修改ToastUtil类中的代码，来实现更多的功能。
 
+### 星星历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=colalall/Toast_test&type=Date)](https://star-history.com/#colalall/Toast_test&Date)
+
 
 
