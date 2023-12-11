@@ -4,8 +4,7 @@
 - 默认是从顶部向下滑出气泡
 
 
-### 使用指南（此项目免费且开源）
-
+### 使用指南
 - [ 点击下载APK文件：Toast 1.0](https://github.com/colalall/Toast_test/releases)
 - 图片预览
 ![image](https://raw.githubusercontent.com/colalall/Toast_test/master/app/src/main/res/drawable/img.png)
